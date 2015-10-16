@@ -1,0 +1,18 @@
+{
+  "name": "hng-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hyperscript": "^1.4.7"
+  },
+  "devDependencies": {
+    "tap": "^2.1.1"
+  }
+}
